@@ -4,7 +4,7 @@
 [![GitHub Sponsors](https://img.shields.io/github/sponsors/louislam?label=GitHub%20Sponsors)](https://github.com/sponsors/louislam)
 
 <div align="center" width="100%">
-    <img src="./public/uptime24x7-logo.svg" width="228" height="128" alt="" />
+    <img src="./public/uptime24x7-logo.svg" width="228" height="228" alt="" />
 </div>
 
 It is a self-hosted monitoring tool like "Uptime Robot".
