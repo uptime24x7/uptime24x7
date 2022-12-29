@@ -11,7 +11,7 @@ Monitoring Services from Uptime24x7
 
 Try it!
 
-- Demo Server: https://demo.uptime24x7.online
+- Demo Server: https://uptime24x7.online/#contact
 
 It is a temporary live demo, all data will be deleted after 10 minutes. Use the one that is closer to you, but I suggest that you should install and try it out for the best demo experience.
 
