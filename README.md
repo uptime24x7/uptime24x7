@@ -2,7 +2,7 @@
 
 <b align="center">Monitoring Services from Uptime24x7</b>
 
-<img src="https://uptime.kuma.pet/img/dark.jpg" width="700" alt="" />
+<img src="https://uptime24x7.online/images/demo.png" width="700" alt="" />
 
 ## 🥔 Live Demo
 
